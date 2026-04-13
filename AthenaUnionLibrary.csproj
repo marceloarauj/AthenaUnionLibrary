@@ -4,6 +4,13 @@
     <TargetFramework>net10.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageId>AthenaUnionLibrary</PackageId>
+    <Version>1.0.0</Version>
+    <Authors>marceloarauj</Authors>
+    <Description>Shared library for Athena Students Union project</Description>
+    <RepositoryUrl>https://github.com/marceloarauj/AthenaUnionLibrary</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
   </PropertyGroup>
 
   <ItemGroup>
