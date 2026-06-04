@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "4Ml+VhEoMd8=",
+  "success": true,
+  "projectFilePath": "D:\\Projetos\\AthenaStudentsUnionProject\\AthenaUnionLibrary\\Mediator\\Mediator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\marcelo\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\10.0.3\\microsoft.extensions.dependencyinjection.10.0.3.nupkg.sha512",
+    "C:\\Users\\marcelo\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.3\\microsoft.extensions.dependencyinjection.abstractions.10.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

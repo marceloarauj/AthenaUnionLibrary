@@ -1,0 +1,12 @@
+D:\Projetos\AthenaStudentsUnionProject\AthenaUnionLibrary\Mediator\bin\Debug\net10.0\Mediator.deps.json
+D:\Projetos\AthenaStudentsUnionProject\AthenaUnionLibrary\Mediator\bin\Debug\net10.0\Mediator.dll
+D:\Projetos\AthenaStudentsUnionProject\AthenaUnionLibrary\Mediator\bin\Debug\net10.0\Mediator.pdb
+D:\Projetos\AthenaStudentsUnionProject\AthenaUnionLibrary\Mediator\obj\Debug\net10.0\Mediator.csproj.AssemblyReference.cache
+D:\Projetos\AthenaStudentsUnionProject\AthenaUnionLibrary\Mediator\obj\Debug\net10.0\Mediator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\AthenaStudentsUnionProject\AthenaUnionLibrary\Mediator\obj\Debug\net10.0\Mediator.AssemblyInfoInputs.cache
+D:\Projetos\AthenaStudentsUnionProject\AthenaUnionLibrary\Mediator\obj\Debug\net10.0\Mediator.AssemblyInfo.cs
+D:\Projetos\AthenaStudentsUnionProject\AthenaUnionLibrary\Mediator\obj\Debug\net10.0\Mediator.csproj.CoreCompileInputs.cache
+D:\Projetos\AthenaStudentsUnionProject\AthenaUnionLibrary\Mediator\obj\Debug\net10.0\Mediator.dll
+D:\Projetos\AthenaStudentsUnionProject\AthenaUnionLibrary\Mediator\obj\Debug\net10.0\refint\Mediator.dll
+D:\Projetos\AthenaStudentsUnionProject\AthenaUnionLibrary\Mediator\obj\Debug\net10.0\Mediator.pdb
+D:\Projetos\AthenaStudentsUnionProject\AthenaUnionLibrary\Mediator\obj\Debug\net10.0\ref\Mediator.dll
